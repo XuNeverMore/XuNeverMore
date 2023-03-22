@@ -4,6 +4,6 @@
 
 - :alien:I'm an Android developer.
 - 🔭 I’m currently work in Beijing.
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning C++.
 
 
